@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "title": "Reproducción de Alta Calidad",
+      "description": "Nuestros sistemas de reproducción están diseñados para ofrecer una calidad de audio y video superior. Con una resolución de hasta 4K y soporte para formatos de audio sin compresión, garantizamos una experiencia visual y auditiva excepcional en cada proyecto.",
+      "image": "/images/carousel/img1.jpg",
+      "alt": "Sistema de playback de alta calidad"
+    },
+    {
+      "title": "Integración Multicanal",
+      "description": "Optimizado para entornos profesionales, nuestro sistema de playback soporta múltiples canales de audio y video simultáneamente. Esto permite configuraciones personalizadas para producciones en vivo, instalaciones multimedia y aplicaciones de postproducción.",
+      "image": "/images/carousel/img2.jpg",
+      "alt": "Integración multicanal en sistemas de playback"
+    },
+    {
+      "title": "Sincronización Perfecta",
+      "description": "Nuestro sistema garantiza una sincronización precisa entre el audio y el video, con mínima latencia. Ideal para eventos en vivo, presentaciones interactivas y producciones audiovisuales donde cada milisegundo cuenta.",
+      "image": "/images/carousel/img3.jpg",
+      "alt": "Sincronización de audio y video en tiempo real"
+    }
+  ]
+}
