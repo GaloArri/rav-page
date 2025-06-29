@@ -1,12 +1,11 @@
-import Link from "next/link"
+import Link from "next/link";
 
 const footerLinks = [
-  { href: "/products", label: "Productos" },
   { href: "/about", label: "Nosotros" },
   { href: "/contact", label: "Contacto" },
   { href: "/faq", label: "FAQ" },
   { href: "https://www.instagram.com/rav.seq", label: "Instagram" },
-]
+];
 
 export default function Footer() {
   return (
@@ -24,9 +23,12 @@ export default function Footer() {
           ))}
         </nav>
         <div className="text-center text-sm">
-          <p>&copy; {new Date().getFullYear()} RAV. Todos los derechos reservados.</p>
+          <p>
+            &copy; {new Date().getFullYear()} RAV. Todos los derechos
+            reservados.
+          </p>
         </div>
       </div>
     </footer>
-  )
+  );
 }
